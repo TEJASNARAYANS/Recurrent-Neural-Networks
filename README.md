@@ -1,5 +1,4 @@
-# Recurrent-Neural-Networks
-
+# GOOGLE Stock Price Prediction
 This model is to predict the future stock price of Google stocks in Share market, data set includes
 the last 5 years performance of Google in the share market. Deep Learning model to predict the Trend of the companies
 shares if it will rise or fall during the next few months using concepts of RNN and LSTMs. Ultimately compare the
